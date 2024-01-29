@@ -1,13 +1,7 @@
-👋 Greetings! I'm @rayenbenhassen07.
-👀 My passion lies in the realm of Web Development.
-🌱 Currently, I'm diving into the world of Next.js to enhance my skills.
-💞️ I'm open to exciting collaboration opportunities—let's create something amazing together!
-📫 Reach me at my website.
-😄 Pronouns: he/him.
-
-
-
-
+👋@rayenbenhassen07 is a passionate web developer with expertise in PHP, JavaScript, CSS, Tailwind CSS, React, Next.js, SQL, and NoSQL.
+Currently exploring Next.js, he's open to collaboration opportunities.
+His proficiency in PHP adds server-side scripting, while familiarity with NoSQL databases and Tailwind CSS showcases versatility.
+With a commitment to continuous learning, he's poised to excel in creating robust, scalable, and visually appealing web applications. 🚀🌐
 
 
 
