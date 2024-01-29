@@ -4,7 +4,7 @@
 💞️ I'm open to exciting collaboration opportunities—let's create something amazing together!
 📫 Reach me at my website.
 😄 Pronouns: he/him.
-⚡ Fun fact: I once attempted to teach my pet goldfish a few tricks, complete with a miniature obstacle course. Needless to say, my aquatic friend had a unique take on the concept of obedience! 🐠💫
+
 
 
 
